@@ -65,4 +65,4 @@ jobs:
         run: ./unit_testing
 
       - name: Run integration tests
-        run: ./intgration_testing
+        run: ./integration_testing
